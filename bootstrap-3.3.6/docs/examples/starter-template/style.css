@@ -1,0 +1,75 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  text-align: center;
+  background-color: black; 
+  height:650px; 
+  min-height:650px;
+}
+.welcometext{
+  padding-top: 150px; 
+}
+.container{
+	padding-left:30px;
+	padding-right:30px;
+	min-height:100%;
+}
+.notcovercontent{
+	background-color: white;
+	padding-left:30px;
+	padding-right:30px;
+}
+.contact-left{
+ float : left;
+}
+.contact-right{
+  float: right;
+}
+.e-mail{
+  color : grey;
+  text-decoration: none;
+}
+a:link, a:visited, a:active, a:hover {
+  text-decoration: none;
+}
+
+.navbar-header{
+	padding-left:25px;
+}
+#navbar{
+	padding-left:180px; 
+}
+
+.faqcontent , contactcontent{
+	padding-top:10px;
+}
+img.img-responsive{
+	float:left;
+	margin:10px;
+	width:375px;
+	height:250px;
+}
+navbar.active, navbar.about, navbar.presentation, navbar.sites, navbar.faq, navbar.contact, a.active, a.about, a.presentation, a.sites, a.faq, a.contact  {
+	background-color:615B5B;
+}
+img#imagenochange{
+	float:left;
+	margin:10px;
+	width:480px;
+	height:470px;
+}
+img#imagenochange1{
+	float:left;
+	margin:10px;
+	width:170px;
+	height:200px;
+}
+
+img#imagenochange2{
+	width:480px;
+	height:470px;
+	margin-left:20%;
+	float:left;
+}
+
